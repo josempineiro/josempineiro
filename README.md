@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate of Frontend development enthusias
       firstName: "Jose",
       lastName: "Piñeiro",
       aka: "Leman",
-      role: "Frontend Engineer"
+      role: "Frontend Engineer",
       technologies: ["Typescript", "React", "Vue"],
       languages: [
         {
