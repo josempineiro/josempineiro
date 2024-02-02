@@ -9,9 +9,11 @@ Welcome to my GitHub profile! I'm a passionate of Frontend development enthusias
       firstName: "Jose",
       lastName: "Piñeiro",
       aka: "Leman",
+      company: "Trileuco Solutions",
       role: "Frontend Engineer",
       technologies: ["Typescript", "React", "Vue"],
       web: "https://leman.dev",
+      email: "leman.pineiro.garcia@gmail.com",
       languages: [
         {
           code: "es",
