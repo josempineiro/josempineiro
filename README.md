@@ -9,9 +9,14 @@ Welcome to my GitHub profile! I'm a passionate of Frontend development enthusias
 
 ## Tecnologies
 
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
 ## GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](link to your GitHub profile)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josempineiro&show_icons=true&theme=dark)](link to your GitHub profile)
 
 ## Contributions
 
