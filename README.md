@@ -7,6 +7,30 @@ Welcome to my GitHub profile! I'm a passionate of Frontend development enthusias
 - 🌐 [Personal web](https://leman.dev)
 - 📫 How to reach me: [Email](leman.pineiro.garcia@gmail.com)
 
+  ```javascript
+    const profile = {
+      firstName: "Jose",
+      lastName: "Piñeiro",
+      aka: "Leman",
+      role: "Frontend Engineer"
+      technologies: ["Typescript", "React", "Vue"],
+      languages: [
+        {
+          code: "es",
+          level: "native"
+        }, {
+          code: "en",
+          level: "intermediate",
+        }, {
+          code: "pt",
+          level: "upper-intermediate",
+        }, {
+          code: "it",
+          level: "pre-intermediate",
+        }]
+    }
+  ```
+
 ## Tecnologies
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
