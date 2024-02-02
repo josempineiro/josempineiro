@@ -2,11 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate of Frontend development enthusiast with experience in React and Vue. Here, you'll find some of my projects and contributions.
 
-## About Me
 
-- 🌐 [Personal web](https://leman.dev)
-- 📫 How to reach me: [Email](leman.pineiro.garcia@gmail.com)
-
+## About me
   ```javascript
     const profile = {
       firstName: "Jose",
@@ -14,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate of Frontend development enthusias
       aka: "Leman",
       role: "Frontend Engineer",
       technologies: ["Typescript", "React", "Vue"],
+      web: "https://leman.dev",
       languages: [
         {
           code: "es",
@@ -30,6 +28,10 @@ Welcome to my GitHub profile! I'm a passionate of Frontend development enthusias
         }]
     }
   ```
+
+
+- 🌐 [Personal web](https://leman.dev)
+- 📫 How to reach me: [Email](leman.pineiro.garcia@gmail.com)
 
 ## Tecnologies
 
