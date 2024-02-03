@@ -15,7 +15,6 @@ Here, you'll find some of my projects and contributions.
       aka: "Leman",
       company: "Trileuco Solutions",
       role: "Frontend Engineer",
-      technologies: ["Typescript", "React", "Vue"],
       web: "https://leman.dev",
       email: "leman.pineiro.garcia@gmail.com",
       languages: [
