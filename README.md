@@ -13,7 +13,7 @@ Here, you'll find some of my projects and contributions.
       firstName: "Jose",
       lastName: "Piñeiro",
       aka: "Leman",
-      company: "Trileuco Solutions",
+      company: "Exoticca",
       role: "Frontend Engineer",
       web: "https://leman.dev",
       email: "leman.pineiro.garcia@gmail.com",
